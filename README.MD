@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is M and I'm a GUY from NY</h2>
+<h2 align="left">Hi 👋! </h2>
 
 ###
 
